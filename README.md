@@ -1,6 +1,7 @@
 # SourceDependency2021
  repository for codes necessary to reproduce figures and analyis in Goodwell and Bassiouni, 2021
 
+[![DOI](https://zenodo.org/badge/402894680.svg)](https://zenodo.org/badge/latestdoi/402894680)
 
 **Binary Model Example** (Matlab):
 - ModelExample1_binarymodels.m - This code will generate binary source/target distributions and reproduce Figure 2 from the manuscript
